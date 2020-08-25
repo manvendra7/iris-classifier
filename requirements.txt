@@ -2,5 +2,5 @@ numpy
 pandas
 matplotlib
 seaborn
-scikit_learn
+scikit-learn
 streamlit
